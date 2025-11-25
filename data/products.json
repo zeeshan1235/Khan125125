@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Organic Apples", "price": "$2.99/lb" },
+  { "id": 2, "name": "Whole Wheat Bread", "price": "$3.49" },
+  { "id": 3, "name": "Free-Range Eggs", "price": "$4.99/dozen" },
+  { "id": 4, "name": "Almond Milk", "price": "$3.99" }
+]
